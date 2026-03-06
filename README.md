@@ -34,6 +34,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+###################################################  note ############################################################
+Make sure to create a react app database in the firebase project, 
+Be sure to add your SDK form the firebase webapp to the firebase-config.js file before running or the web app will not run
+
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
@@ -92,3 +96,4 @@ Why I Built This
 
 I built this project to practice building a real-time web application, working with authentication, and integrating Firebase as a cloud database with a React frontend.
 >>>>>>> e822ade64b81503735602ffee2b6bb65a769a608
+
