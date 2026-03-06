@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+Add all the files and folders here in a single folder and run the above command in the terminal opened in this folder
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -96,4 +99,5 @@ Why I Built This
 
 I built this project to practice building a real-time web application, working with authentication, and integrating Firebase as a cloud database with a React frontend.
 >>>>>>> e822ade64b81503735602ffee2b6bb65a769a608
+
 
