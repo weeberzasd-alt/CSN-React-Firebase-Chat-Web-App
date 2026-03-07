@@ -119,12 +119,13 @@ function ChatRoom({ user, onLogout }) {
 
           </div>
           <h1>CSN Web</h1>
-          <p>Send and receive messages without keeping your phone online.</p>
+          <p>you can chat with others and thats it</p>
           <p>Join or create a room to start messaging.</p>
         </div>
       </div>
     </div>
   );
 }
+
 
 export default ChatRoom;
